@@ -1,0 +1,19 @@
+
+> promptcraft-ai@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.27
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.2:3000
+
+ ✓ Starting...
+ ✓ Ready in 1925ms
+ ○ Compiling / ...
+ ✓ Compiled / in 5.6s (589 modules)
+ HEAD / 200 in 6599ms
+ ✓ Compiled in 180ms (248 modules)
+ GET / 200 in 155ms
+ ○ Compiling /api/generate ...
+ ✓ Compiled /api/generate in 2s (733 modules)
+ POST /api/generate 200 in 2573ms
+[?25h
